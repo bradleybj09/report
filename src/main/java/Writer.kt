@@ -1,7 +1,5 @@
 import kotlinx.html.*
-import kotlinx.html.dom.append
 import kotlinx.html.dom.create
-import kotlinx.html.stream.createHTML
 import org.w3c.dom.Element
 import java.io.OutputStream
 import java.io.OutputStreamWriter
